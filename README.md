@@ -44,16 +44,6 @@ Predecir las ventas diarias de tiendas físicas a partir de variables como:
 
 ---
 
-## 📉 Visualizaciones
-
-### Evolución de la pérdida durante el entrenamiento
-![Loss Curve](images/loss_curve.png)
-
-### Comparación de ventas reales vs predichas (muestra)
-![Prediction Sample](images/prediction_sample.png)
-
----
-
 ## 🛠️ Tecnologías
 
 - Python
